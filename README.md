@@ -1,1 +1,1 @@
-# GPT3-Blog_Ernest-_Yoyowah
+[Live Site](https://cheery-swan-0debe4.netlify.app)
