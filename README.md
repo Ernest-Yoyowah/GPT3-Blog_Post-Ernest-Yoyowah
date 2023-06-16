@@ -2,7 +2,7 @@
 
 ### [Live Site](https://blog-post-gpt3.netlify.app/)
 
-![Image](https://images.ui8.net/uploads/ui8-long-preview01_1631357477592.jpg)
+![Image](https://camo.githubusercontent.com/fb037e90eb92f3f53e79f2f0fdada922a8e6f3664140710f0c3691a808b675b6/68747470733a2f2f692e6962622e636f2f5452354c57397a2f696d6167652e706e67)
 
 ## INTRODUCTION
 Welcome to the code repository for the GPT-3 Blog Website. This website serves as a platform for sharing insightful articles and blog posts about artificial intelligence, machine learning, and the capabilities of GPT-3. With a clean and user-friendly interface, the website aims to provide a seamless reading experience for technology enthusiasts and researchers.
